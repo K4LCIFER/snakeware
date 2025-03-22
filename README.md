@@ -22,9 +22,11 @@ The aspiration of this library is to facilitate interfacing with Thinkware dashc
 
 ## Reverse Engineering
 
-Network captures are an invaluable asset; all the known behvaior has more or less been found by
-prodding at the dashcam with various states and observing how it responds. Things like commands and
-their responses, errors, unique dashcam features, etc. all need to be observed and analyzed.
+There's still plenty of discovered functionality that is not understood, and likely plenty more that
+remains undiscovered! Network captures are an invaluable asset; all the known behvaior has more or
+less been found by prodding at the dashcam with various states and observing how it responds. Things
+like commands and their responses, errors, unique dashcam features, etc. all need to be observed and
+analyzed.
 
 > [!CAUTION]
 > It is currently unknown if a dashcam can be irreparably bricked if interacted with incorrectly.
